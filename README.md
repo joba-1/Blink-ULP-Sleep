@@ -1,4 +1,4 @@
-# ULP blink
+# ULP blink and sleep
 
 Me trying to make an esp32 blink via ULP and even ULP sleeping most of the time.
 
